@@ -1,0 +1,26 @@
+{
+  "name": "convert-ur-currency",
+  "version": "1.0.0",
+  "description": "An npm package for converting the currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakshig711/xchangeJS.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sakshi Gangurde",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sakshig711/xchangeJS/issues"
+  },
+  "homepage": "https://github.com/Sakshig711/xchangeJS#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
